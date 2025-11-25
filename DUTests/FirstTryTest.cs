@@ -6,7 +6,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace DUTests
+namespace DUTests //Testar commit och push
 {
     // Markerar klassen som en NUnit-testklass
     [TestFixture]
